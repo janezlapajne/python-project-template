@@ -20,3 +20,8 @@ Clear git cached files and directories:
    git rm --cached .env
    ```
     
+Set path to project root directory, e.g.:
+
+   ```sh
+   PYTHONPATH=C:\\Users\\janezla\\Documents\\python-project-template
+   ```
