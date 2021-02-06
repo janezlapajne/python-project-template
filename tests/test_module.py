@@ -1,6 +1,6 @@
 import pytest
 import os, glob
-#import src.module as mod
+#import source.module as mod
 #import tests.helpers as hlp
 
 
