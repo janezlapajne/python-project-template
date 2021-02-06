@@ -1,5 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\janezla\\Anaconda3\\envs\\analize\\python",
     "python.testing.pytestEnabled": true,
     "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,
