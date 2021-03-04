@@ -37,6 +37,6 @@ Set path to project root directory in `.env`, e.g.:
    
 Set python path in vscode workspace settings, e.g.:
    ```sh
-   "python.pythonPath": "C:\\Users\\janezla\\Anaconda3\\envs\\machinelearning\\python"
+   "python.pythonPath": "C:\\Users\\janezla\\Anaconda3\\envs\\yourenvname\\python"
    ```
 
