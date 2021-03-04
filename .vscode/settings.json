@@ -5,7 +5,7 @@
     "python.testing.nosetestsEnabled": false,
     "python.testing.pytestArgs": [
         "tests"
-    ]
+    ],
     "vim.vimrc.enable": false,
     "vim.vimrc.path": "C:\\Users\\janezla\\OneDrive\\dotfiles\\vim\\.vimrc",
 }
